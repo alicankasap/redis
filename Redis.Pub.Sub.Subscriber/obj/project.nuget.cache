@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TViV52CNbuhsgeu/LIJIg6TiYKp6nwJesQIpZkStHrvZrzYQhvct24FK/vivo6n1Viz6Qo+L9Sn7/EPqqMRaJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alica\\Desktop\\Redis\\Redis.Pub.Sub.Subscriber\\Redis.Pub.Sub.Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alica\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\alica\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\alica\\.nuget\\packages\\stackexchange.redis\\2.7.4\\stackexchange.redis.2.7.4.nupkg.sha512",
+    "C:\\Users\\alica\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
